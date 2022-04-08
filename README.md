@@ -29,5 +29,9 @@ Load a regular Jupyter Notebook and load PySpark using the FindSpark package
 - Import findSpark and use findSpark.init() or findSpark.find(), I have already added this statement to my code, so there is no need to add it again. But just change the Spark HOME path
 
 - Open the Exploratory_Data_Analysis.ipynb file and run it. Please note that you should change the path of the dataset directory from HDFS to your path.
-# Results
+# Machine Learning-Based Analysis (Diagnostic&Predictive) 
+
+**Multivariate Anomaly Detection Using Isolation Forest Algorithm**
+
+![image](https://user-images.githubusercontent.com/41056415/162408549-a08e02ea-5b93-4cfd-8943-7999741fb4f8.png)
 
