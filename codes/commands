@@ -1,0 +1,3 @@
+
+spark-submit --py-files Preprocessing.py --class org.apache.spark.examples.SparkPi --master yarn --deploy-mode cluster Anomaly_Detection_IsolationForest.py
+spark-submit --py-files Preprocessing.py --class org.apache.spark.examples.SparkPi --master yarn --deploy-mode cluster Kmeans_Clustering.py
