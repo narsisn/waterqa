@@ -29,3 +29,5 @@ Load a regular Jupyter Notebook and load PySpark using the FindSpark package
 - Import findSpark and use findSpark.init() or findSpark.find(), I have already added this statement to my code, so there is no need to add it again. But just change the Spark HOME path
 
 - Open the Exploratory_Data_Analysis.ipynb file and run it. Please note that you should change the path of the dataset directory from HDFS to your path.
+# Results
+
