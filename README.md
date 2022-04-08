@@ -5,7 +5,7 @@ dataset. These analyses have been implemented in two separate Container-based an
 based clustered environments.
 
 # Implementation Infrastructure
-** Three Nodes Container-Based Cluster Using Docker Compose ** 
+**Three Nodes Container-Based Cluster Using Docker Compose 
 
 In this section, a three-node cluster has been set up using Docker Compose, whose main
 purpose is to execute Jupyter notebooks containing the result visualization.
