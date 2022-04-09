@@ -5,7 +5,7 @@ This repository contains the results of descriptive and predictive analyses on t
 # Implementation Infrastructure
 **1.Three Nodes Container-Based Cluster Using Docker Compose** 
 
-In this section, a three-node cluster has been set up using Docker Compose, whosIranian Smart Fashion Search Enginee main purpose is to execute Jupyter notebooks containing the result visualization.
+In this section, a three-node cluster has been set up using Docker Compose, whos main purpose is to execute Jupyter notebooks containing the result visualization.
 Actually, I have created these docker images (2 Spark nodes and 1 Jupyter node) so that .ipynb files can be executed by you on spark and you can see the results.
 
 - Install docker and docker-compose packages:
